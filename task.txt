@@ -1,0 +1,67 @@
+bijaya + deepa = teamA - branch - feature/teamA
+jayashree + manisha = teamB - branch feature/teamB
+tapan + omm = = teamC - branch feature/teamC
+khirod+giri = teamD =branch - feature/teamD
+
+
+teamA - navbar + detect problem of each topic and inform to admin
+teamB = responsive of navbar + main content 
+teamC = responsive of main content + sidebar
+teamD = add javacsript to sidebar 
+
+
+
+
+tapan + khirod + giri = main content + responsive + sidebar
+omm -  add jaavscript to toglle
+
+
+
+youtube -
+navbar -
+sidebar
+header-
+content-card
+category-
+
+
+
+//git command --
+
+git config --global user.name "your name"
+git config --global user.email "your mail"
+
+//check all branch
+
+git branch -add
+
+
+git branch "your branch name"
+
+git checkout "your branch name"
+
+//edit your file or do your task
+
+
+//then add to stage and commit 
+
+git add . for staging
+git commit -m "your task"
+
+git push
+
+ //set upstream once
+
+
+send pull request to admin
+
+
+when you do your task always run -- git pull origin
+
+
+
+
+
+
+
+
