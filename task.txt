@@ -1,3 +1,6 @@
+dont push from main  or change any file of main
+
+
 bijaya + deepa = teamA - branch - feature/teamA
 jayashree + manisha = teamB - branch feature/teamB
 tapan + omm = = teamC - branch feature/teamC
