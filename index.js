@@ -1,1 +1,1 @@
-console.log("javascript added")
+console.log("javascript added");
