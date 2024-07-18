@@ -1,3 +1,74 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+/* header content  */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f1f1f1;
+    color: rgb(16, 15, 15);
+}
+
+.navbar-left, .navbar-center, .navbar-right {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-left .fas, .navbar-right .fas {
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.logo {
+    height: 50px;
+    cursor: pointer;
+    
+}
+
+.navbar-center {
+    flex: 1;
+    max-width: 600px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-center input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 2px 0 0 2px;
+}
+
+.search-button {
+    padding: 8px 16px;
+    background-color: #f8f8f8;
+    border: 1px solid #d3d3d3;
+    border-radius: 0 2px 2px 0;
+    cursor: pointer;
+}
+
+.navbar-right .fas {
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.profile-picture {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: #ccc;
+    cursor: pointer;
+}
+
+
+
+
+
+
+/* main content  */
 .main{
     text-decoration: none;
     padding-left: 17%;
