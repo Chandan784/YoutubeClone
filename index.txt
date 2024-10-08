@@ -1,0 +1,7 @@
+main content responsive* : Bijayalaxmi
+sidebar* + responsive* : Tapan
+nav bar detailing* + responsive : Shubhankari
+card fixing *  + responsive* +  review missing part : jatin
+upper slider* : Amrutanshu
+upper slider responsive* :  Sanjib
+
