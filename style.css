@@ -221,7 +221,7 @@
   }
   #create{
     display: block;
+    block-size: 40px;
     height: 30px;
-    width: 30px;
   }
 }
